@@ -1,6 +1,9 @@
 # Dependencies
 node_modules
 
-# Environment varibales
+# Environment variables
 .env*
 !.env*.example
+
+# Folders
+dist
